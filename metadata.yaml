@@ -1,0 +1,30 @@
+_repo: Dictionnaire--rotique-moderne_45150
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45150-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Delvau, Alfred
+    birthdate: 1825
+    deathdate: 1867
+    gutenberg_agent_id: '43123'
+    url: http://www.gutenberg.org/2009/agents/43123
+description: ''
+gutenberg_bookshelf: FR Séduction et libertinage
+gutenberg_issued: '2014-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45150'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PC'
+- !lcsh 'French language -- Slang'
+- !lcsh 'French language -- Terms and phrases'
+- !lcsh 'French language -- Glossaries, vocabularies, etc.'
+- !lcsh 'Erotic literature'
+title: Dictionnaire érotique moderne
+url: http://www.gutenberg.org/ebooks/45150
